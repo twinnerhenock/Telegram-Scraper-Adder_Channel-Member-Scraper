@@ -6,8 +6,8 @@ This Tool is for Scraping Group Accounts Of Telegram and Channel Members
 ***
  A free tool To Scrape Telegram Channel and Group Members
 ***
-<b>NOTE</b> > MESSAGE ME HERE
- > https://t.me/alphageeky
+<b>NOTE</b> > EMAIL ME HERE
+ > darkhubgeek@gmail.com
  
  # INSTALLATION
 > OPEN YOUR TERMINAL & RUN ;
@@ -25,7 +25,7 @@ This Tool is for Scraping Group Accounts Of Telegram and Channel Members
 
 IF YOU ENCOUNTER ANY PROBLEM OR HAVE QUESTIONS
 
-MESSAGE HERE > https://t.me/alphageeky
+EMAIL HERE > darkhubgeek@gmail.com
 
 
 # USAGE
