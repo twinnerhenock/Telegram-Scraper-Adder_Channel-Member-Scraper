@@ -7,7 +7,7 @@ This Tool is for Scraping Group Accounts Of Telegram and Channel Members
  A free tool To Scrape Telegram Channel and Group Members
 ***
 <b>NOTE</b> > EMAIL ME HERE
- > darkhubgeek@gmail.com [Telegram]https://t.me/darkhubgeek
+ > darkhubgeek@gmail.com [Telegram]https://t.me/BitWallsOps
  
  # INSTALLATION
 > OPEN YOUR TERMINAL & RUN ;
@@ -25,7 +25,7 @@ This Tool is for Scraping Group Accounts Of Telegram and Channel Members
 
 IF YOU ENCOUNTER ANY PROBLEM OR HAVE QUESTIONS
 
-EMAIL HERE > darkhubgeek@gmail.com  [Telegram]https://t.me/darkhubgeek
+EMAIL HERE > darkhubgeek@gmail.com  [Telegram]https://t.me/BitWallsOps
 
 
 # USAGE
